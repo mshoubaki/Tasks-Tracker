@@ -1,0 +1,6 @@
+{
+  "name": "Phase Tracker Pro",
+  "description": "A robust Next.js project management dashboard powered by Cloud SQL (PostgreSQL) for high-performance multi-user tracking and data persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
